@@ -1,15 +1,13 @@
 .myphoto {
     border-radius: 50%;
-    width: 100%;
+    width: 40%;
     height: auto;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin: 20px;
     object-fit: cover;
     padding-top: auto;
     padding-bottom: auto;
+    float: left;
 }
 
 body {
@@ -19,8 +17,7 @@ body {
 
 .container {
     background-color: #ffb703;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding: 30px;
 }
 
 .jumbotron {
@@ -35,6 +32,24 @@ body {
 .blockquote-footer {
     color: black;
     text-align: center;
+}
+
+.introduction {
+    width: auto;
+    margin: 10px;
+    border: solid black;
+    border-width: 5px;
+    box-sizing: border-box;
+}
+
+.introduction .about p {
+    margin: 15px;
+    text-align: justify;
+    text-justify: auto;
+}
+
+.about {
+    margin: 10px 10px;
 }
 
 .col-md-4 {
