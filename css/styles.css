@@ -3,11 +3,11 @@
     width: 40%;
     height: auto;
     display: block;
-    margin: 20px;
+    margin: 20px 20px;
     object-fit: cover;
     padding-top: auto;
     padding-bottom: auto;
-    float: left;
+    float: right;
 }
 
 body {
@@ -34,6 +34,14 @@ body {
     text-align: center;
 }
 
+.portfolio {
+    width: auto;
+    margin: 10px 10px;
+    border: solid black;
+    border-width: 5px;
+    box-sizing: border-box; 
+}
+
 .introduction {
     width: auto;
     margin: 10px;
@@ -42,8 +50,8 @@ body {
     box-sizing: border-box;
 }
 
-.introduction .about p {
-    margin: 15px;
+.about p {
+    margin: 15px 15px;
     text-align: justify;
     text-justify: auto;
 }
@@ -52,6 +60,9 @@ body {
     margin: 10px 10px;
 }
 
+.about ul {
+    margin-bottom: 20px;
+}
 .col-md-4 {
     width: 100%;
     padding: 30px;
