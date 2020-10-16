@@ -1,17 +1,40 @@
 .myphoto {
     border-radius: 50%;
-    width: 50%;
+    width: 75%;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    object-fit: cover;
+    
 }
 
 body {
-    background-color:#FF570A;
+    background-color:#023047
 }
 
 .container {
-    background-color: #FFB800;
+    background-color: #ffb703;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
+
+.jumbotron {
+    background-color: #219ebc;
+    text-align: center;
+}
+
+.blockquote {
+    text-align: center;
+}
+
+.blockquote-footer {
+    color: black;
+    text-align: center;
+}
+
+.emphasize {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
