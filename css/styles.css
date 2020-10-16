@@ -1,14 +1,4 @@
-.myphoto {
-    border-radius: 50%;
-    width: 40%;
-    height: auto;
-    display: block;
-    margin: 120px 20px 20px 20px;
-    object-fit: cover;
-    padding-top: 
-    padding-bottom: auto;
-    float: right;
-}
+
 
 body {
     background-color:#023047;
@@ -22,6 +12,7 @@ body {
 
 .jumbotron {
     background-color:  #023047;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     margin: 20px 10px;
     color: white;
@@ -56,6 +47,18 @@ nav a {
     border-width: 5px;
     box-sizing: border-box;
     padding: 10px 10px;
+}
+
+.myphoto {
+    border-radius: 50%;
+    width: 40%;
+    height: auto;
+    display: block;
+    margin: 120px 20px 20px 20px;
+    object-fit: cover;
+    padding-top: auto; 
+    padding-bottom: auto;
+    float: right;
 }
 
 .about p {
