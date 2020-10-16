@@ -37,15 +37,31 @@ body {
 .portfolio {
     width: auto;
     margin: 10px 10px;
-    border: solid black;
+    border: solid #023047;
     border-width: 5px;
     box-sizing: border-box; 
 }
 
+.portfolio div {
+    margin: 10px 10px;
+}
+
+.portfolio h2 {
+    margin: 10px 10px;
+}
+
+.portfolio .col-6 {
+    padding: 10px;
+    border: solid black;
+    border-width: 2px;
+    box-sizing: border-box;
+    float: right;
+}
+
 .introduction {
     width: auto;
-    margin: 10px;
-    border: solid black;
+    margin: 10px 10px;
+    border: solid #023047;
     border-width: 5px;
     box-sizing: border-box;
 }
@@ -63,13 +79,7 @@ body {
 .about ul {
     margin-bottom: 20px;
 }
-.col-md-4 {
-    width: 100%;
-    padding: 30px;
-    border: #023047;
-    border-width: 5px;
-    box-sizing: border-box;
-}
+
 
 .emphasize {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
