@@ -3,9 +3,9 @@
     width: 40%;
     height: auto;
     display: block;
-    margin: 20px 20px;
+    margin: 120px 20px 20px 20px;
     object-fit: cover;
-    padding-top: auto;
+    padding-top: 
     padding-bottom: auto;
     float: right;
 }
@@ -23,6 +23,7 @@ body {
 .jumbotron {
     background-color: #5795db;
     text-align: center;
+    margin: 20px 10px;
 }
 
 .blockquote {
@@ -40,27 +41,13 @@ body {
     border: solid #023047;
     border-width: 5px;
     box-sizing: border-box; 
+    padding: 20px 20px;
 }
 
-.portfolio div {
-    margin: 10px 10px;
-}
-
-.portfolio h2 {
-    margin: 10px 10px;
-}
-
-.portfolio .col-6 {
-    padding: 10px;
-    border: solid black;
-    border-width: 2px;
-    box-sizing: border-box;
-    float: right;
-}
 
 .introduction {
     width: auto;
-    margin: 10px 10px;
+    margin: 10px;
     border: solid #023047;
     border-width: 5px;
     box-sizing: border-box;
