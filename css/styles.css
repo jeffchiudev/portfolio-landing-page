@@ -1,0 +1,17 @@
+.myphoto {
+    border-radius: 50%;
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color:#FF570A;
+}
+
+.container {
+    background-color: #FFB800;
+}
+}

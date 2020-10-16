@@ -18,12 +18,11 @@ _Currently optimized for desktop browsing.  Smart device integration will be add
 
 ## Support and contact details
 
-_If there are any issues, I can be contact at jwchiu82@gmail.com_
+_If there are any issues, I can be contacted at jwchiu82@gmail.com_
 
-## Technologies Used
+## Site link
 
-* _HTML_
-* _Bootstrap_
+_[Click here](https://github.com/jeffchiudev/portfolio-landing-page) to visit the portfolio_
 
 ### License
 
