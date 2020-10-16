@@ -1,6 +1,6 @@
 .myphoto {
     border-radius: 50%;
-    width: 75%;
+    width: 100%;
     height: auto;
     display: block;
     margin-left: auto;
@@ -8,7 +8,8 @@
     margin-top: auto;
     margin-bottom: auto;
     object-fit: cover;
-    
+    padding-top: auto;
+    padding-bottom: auto;
 }
 
 body {
@@ -23,7 +24,7 @@ body {
 }
 
 .jumbotron {
-    background-color: #219ebc;
+    background-color: #5795db;
     text-align: center;
 }
 
@@ -34,6 +35,14 @@ body {
 .blockquote-footer {
     color: black;
     text-align: center;
+}
+
+.col-md-4 {
+    width: 100%;
+    padding: 30px;
+    border: #023047;
+    border-width: 5px;
+    box-sizing: border-box;
 }
 
 .emphasize {
