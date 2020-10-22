@@ -12,6 +12,12 @@ _This site is a presentation of Jeff Chiu's developer portfolio showcasing his w
 
 _Best viewed in Mozilla Firefox or Google Chrome_
 
+_To clone repository to your local machine_
+
+* In GIT bash, make directory (command: mkdir) that you'd like to clone remote repository in. 
+* In GIT bash, type in command "$ git clone https://github.com/jeffchiudev/portfolio-landing-page"
+* To open in GIT bash, type in command "$ code ." and file should open into VScode. 
+
 ## Known Bugs
 
 _Currently optimized for desktop browsing.  Smart device integration will be added soon_
@@ -22,7 +28,7 @@ _If there are any issues, I can be contacted at jwchiu82@gmail.com_
 
 ## Site link
 
-_[Click here](https://github.com/jeffchiudev/portfolio-landing-page) to visit the portfolio_
+_[Click here](https://jeffchiudev.github.io/portfolio-landing-page/) to visit the portfolio_
 
 ### License
 
