@@ -19,11 +19,10 @@ _1. Download [this](https://github.com/jeffchiudev/portfolio-landing-page) repos
 _2. Double click index.html to open it in your web browser._
 
 ### Open via Bash/GitBash:
-_1. Clone this repository onto your computer:_
+_1. Open terminal window and navigate to/create desired repository location._
+_2. Clone this repository onto your computer by using command:_
 `git clone https://github.com/jeffchiudev/portfolio-landing-page`
-_2. Navigate into the directory where you've cloned the repository, and open in Visual Studio Code or preferred text editor._
-_3. Type `code .` and all files related to the repository should open in your editor._
-
+_3. In the directory where you've cloned the repository, open in Visual Studio Code with `code .` or preferred text editor._
 ## Known Bugs
 
 _Currently optimized for desktop browsing.  Smart device integration will be added soon._
