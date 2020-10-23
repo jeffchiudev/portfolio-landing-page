@@ -10,17 +10,23 @@ _This site is a presentation of Jeff Chiu's developer portfolio showcasing his w
 
 ## Setup/Installation Requirements
 
-_Best viewed in Mozilla Firefox or Google Chrome_
+### Software Requirements
+_1. Internet browser of choice. Chrome & Firefox are suggested_
+_2. A code editor like VSCode or Atom to view or edit the codebase._
 
-_To clone repository to your local machine_
+#### Open by downloading:
+_1. Download [this](https://github.com/jeffchiudev/portfolio-landing-page) repository onto your computer by clicking the 'clone or download button'._
+_2. Double click index.html to open it in your web browser._
 
-* In GIT bash, make directory (command: mkdir) that you'd like to clone remote repository in. 
-* In GIT bash, type in command "$ git clone https://github.com/jeffchiudev/portfolio-landing-page"
-* To open in GIT bash, type in command "$ code ." and file should open into VScode. 
+### Open via Bash/GitBash:
+_1. Clone this repository onto your computer:_
+`git clone https://github.com/jeffchiudev/portfolio-landing-page`
+_2. Navigate into the directory where you've cloned the repository, and open in Visual Studio Code or preferred text editor._
+_3. Type `code .` and all files related to the repository should open in your editor._
 
 ## Known Bugs
 
-_Currently optimized for desktop browsing.  Smart device integration will be added soon_
+_Currently optimized for desktop browsing.  Smart device integration will be added soon._
 
 ## Support and contact details
 
@@ -28,10 +34,10 @@ _If there are any issues, I can be contacted at jwchiu82@gmail.com_
 
 ## Site link
 
-_[Click here](https://jeffchiudev.github.io/portfolio-landing-page/) to visit the portfolio_
+_[Click here](https://jeffchiudev.github.io/portfolio-landing-page/) to visit the portfolio._
 
 ### License
 
-_This extension is licensed under the MIT license_
+_This extension is licensed under the MIT license._
 
 Copyright (c) 2020 Jeffrey W. Chiu
